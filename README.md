@@ -1,4 +1,4 @@
 ssssss
 ======
 
-xxxxxxxxxxxaa"'>&lt;img src=x>
+xxxxxxxxxxxaa"'><img src=x>
